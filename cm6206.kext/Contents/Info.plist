@@ -58,8 +58,6 @@
 	<dict>
 		<key>com.apple.iokit.IOUSBFamily</key>
 		<string>1.8</string>
-		<key>com.apple.kernel.libkern</key>
-		<string>6.0</string>
 	</dict>
 </dict>
 </plist>
